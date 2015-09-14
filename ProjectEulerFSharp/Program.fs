@@ -5,5 +5,5 @@ module ProjectEuler
 
 [<EntryPoint>]
 let main argv = 
-    printfn "Problem 1, answer: %d" Problem001.answer
+    printfn "Problem 2, answer: %d" Problem002.answer
     0 // return an integer exit code
